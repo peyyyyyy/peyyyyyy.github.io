@@ -5,7 +5,16 @@ body {
 h2 {
     font-family: Times New Roman;
     padding-left: 20px;
-    font-size: 50px; }
+    font-size: 50px; 
+
+}
+
+h3 {
+    font-family: Times New Roman;
+    padding-left: 635px;
+    font-size: 50px;
+    
+}
 
    h4 {
     font-family: Times New Roman;
@@ -62,4 +71,16 @@ p {
   	border: 2px black solid;
   	border-radius: 5px;
  
+}
+
+#pastwork {
+	background: white;
+	position: relative;
+    left: 640px;
+    top: -30px;
+    width: 250px;
+    color: #000000;
+    font-family: Helvetica;
+    border: 0px solid black;
+    border-radius: 5px;
 }
