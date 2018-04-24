@@ -37,7 +37,7 @@ p {
 
 }
 
-#heroimage {
+heroimage {
 	background: white;
 	position: relative;
     left: 620px;
@@ -50,7 +50,7 @@ p {
     border-radius: 5px;
 }
 
-#infocardbg {
+infocardbg {
 	background-color: #E89C6C;
 	position: relative;
     left: 620px;
