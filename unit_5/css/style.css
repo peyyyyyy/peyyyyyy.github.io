@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Tajawal');
 
 
-body {
-    background: #ffffff;
-}
+
 
 h2 {
     font-family: 'Montserrat', sans-serif;
@@ -51,13 +49,12 @@ heroimage {
 }
 
 infocardbg {
-	background-color: #E89C6C;
+	background-color: [E89C6C];
 	position: relative;
     left: 620px;
     top: 10px;
     width: 800px;
     height: 625px;
-    color: #000000;
     font-family: Helvetica;
     border: 2px solid black;
     border-radius: 5px;
