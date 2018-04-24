@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+
+
+body {
+    background: #ffffff;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    font-size: 50px; 
+    line-height: 10px;
+
+}
+
+h3 {
+    font-family: Times New Roman;
+    padding-left: 635px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+   h4 {
+    font-family: Times New Roman;
+    padding-left: 20px;
+    font-size: 500px; 
+	color: #ffffff;}
+
+p { 
+	padding-left: 20px;
+	font-size: 20px;
+    letter-spacing: -1px;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+#heroimage {
+	background: white;
+	position: relative;
+    left: 620px;
+    top: 0px;
+    width: 800px;
+    height: 625px;
+    color: #000000;
+    font-family: Helvetica;
+    border: 0px solid black;
+    border-radius: 5px;
+}
+
+#infocardbg {
+	background: white;
+	position: relative;
+    left: 620px;
+    top: 10px;
+    width: 800px;
+    height: 625px;
+    color: #000000;
+    font-family: Helvetica;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.img-circle {
+    border-radius: 1200px;
+    padding: 0px; 
+    width: 40%;
+  	position: relative;
+    left: 30px;
+    top: 50px;
+}
+
+.img-rect {
+    padding: 0px; 
+    width: 100%;
+  	position: relative;
+  	border: 2px black solid;
+  	border-radius: 5px;
+ 
+}
+
+#pastwork {
+	background: white;
+	position: relative;
+    left: 640px;
+    top: -30px;
+    width: 250px;
+    color: #000000;
+    font-family: Helvetica;
+    border: 0px solid black;
+    border-radius: 5px;
+}
